@@ -8,7 +8,7 @@ image:
   repository: bitnami/nginx
   pullPolicy: IfNotPresent
   # Overrides the image tag whose default is the chart appVersion.
-  tag: 1.22.0-debian-11-r14
+  tag: 1.25.3-debian-11-r14
 
 imagePullSecrets: []
 nameOverride: ""
